@@ -55,9 +55,7 @@ Simply open the index.html file in your favorite web browser to see the site in 
 
 🤝 Let's Connect!
 I'm always open to connecting with fellow developers and tech enthusiasts. Feel free to reach out!
-
 LinkedIn: Partha Sarathi Mistri
-
 Twitter / X: @parthasm1306
 
 Instagram: @parthasarathimistri

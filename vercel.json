@@ -1,15 +1,15 @@
 {
-  "rewrites": [
-    {
-      "source": "/((?!maintenance.html).*)",
-      "has": [
+    "rewrites": [
         {
-          "type": "env",
-          "key": "MAINTENANCE_MODE",
-          "value": "true"
+            "source": "/((?!maintenance\\.html).*)",
+            "has": [
+                {
+                    "type": "env",
+                    "key": "MAINTENANCE_MODE",
+                    "value": "true"
+                }
+            ],
+            "destination": "/maintenance.html"
         }
-      ],
-      "destination": "/maintenance.html"
-    }
-  ]
+    ]
 }

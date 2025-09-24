@@ -1,62 +1,61 @@
-🚀 Partha Sarathi Mistri - Personal Portfolio
-<div align="center">
-<img src="https://raw.githubusercontent.com/parthasarathimistri/my-portfolio/main/assets/portfolio-preview.png.png" alt="A screenshot of the portfolio homepage" width="800"/>
-</div>
+<h1 align="center" id="title">My PORTFOLIO</h1>
 
-<p align="center">
-Welcome to the official repository for my personal portfolio website. This project is a clean, modern, and fully responsive showcase of my skills, experience, and journey as a software engineer based in Chennai.
-</p>
+<p align="center"><img src="https://socialify.git.ci/parthasarathimistri/my-portfolio/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-<p align="center">
-<a href="https://www.google.com/search?q=https://your-vercel-link.vercel.app/" target="_blank">
-<strong>✨ View Live Site ✨</strong>
-</a>
-</p>
+<p id="description">Welcome to my digital corner of the web! This project is my personal portfolio built from the ground up to tell my story as a software engineer based in Chennai. It features a minimalist design smooth animations and sections detailing my skills experience and selected works. Feel free to explore the code and see how it all comes together.</p>
 
-🌟 Features
-This portfolio is built from the ground up to be both beautiful and functional, featuring:
+<h2>Project Screenshots:</h2>
 
-🎨 Modern & Clean UI: A minimalist design that puts the content first.
+<img src="https://i.postimg.cc/9MRbgqks/Screenshot-2025-09-25-015753.png" alt="project-screenshot" width="1920" height="1080/">
 
-📱 Fully Responsive: Looks and works great on any device, from mobile phones to desktops.
+  
+  
+<h2>🧐 Features</h2>
 
-🧊 3D Animated Preloader: A custom-built 3D cube preloader for a unique loading experience.
+Here're some of the project's best features:
 
-** interactive Form:** A "Get In Touch" form with modern, floating labels for a smooth user experience.
+*   Modern & Clean UI
+*   Fully Responsive
+*   Custom 3D Animated Preloader
+*   Interactive Contact Form
+*   Smooth Scrolling Navigation
+*   Dynamic Content Sections
+*   Automated Deployment
 
-📜 Smooth Scrolling: Seamless navigation between different sections of the page.
+<h2>🛠️ Installation Steps:</h2>
 
-💼 Dynamic Content Sections: Sections for About Me, Experience, Skills, and Selected Works.
+<p>1. Clone the repository</p>
 
-💻 Tech Stack
-This project was built using foundational web technologies, with a focus on clean code and performance.
+```
+git clone [https://github.com/parthasarathimistri/my-portfolio.git](https://github.com/parthasarathimistri/my-portfolio.git)     
+```
 
-HTML5: For the core structure and content.
+<p>2. Navigate to the project directory</p>
 
-CSS3: For all styling, including the responsive layout and custom animations.
+```
+cd my-portfolio
+```
 
-JavaScript (Vanilla): To power the interactive elements like smooth scrolling and the preloader logic.
+<p>3. Open in your browser</p>
 
-Vercel: For seamless, automated deployment and hosting.
+```
+// On Windows you might run:     start index.html      // On macOS you might run:     open index.html
+```
 
-🛠️ How To Use
-To view or run this project locally, follow these steps:
+<h2>🍰 Contribution Guidelines:</h2>
 
-Clone the repository:
+  
+  
+<h2>💻 Built with</h2>
 
-git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+Technologies used in the project:
 
-Navigate to the project directory:
+*   HTML5
+*   CSS3
+*   Vanilla JavaScript
+*   Git & GitHub
+*   Vercel
 
-cd your-repository-name
+<h2>💖Like my work?</h2>
 
-Open index.html in your browser:
-Simply open the index.html file in your favorite web browser to see the site in action.
-
-🤝 Let's Connect!
-I'm always open to connecting with fellow developers and tech enthusiasts. Feel free to reach out!
-LinkedIn: Partha Sarathi Mistri
-Twitter / X: @parthasm1306
-
-Instagram: @parthasarathimistri
-
+If you have any questions run into issues or just want to connect please don't hesitate to reach out. I'm always happy to help and discuss this project or anything else tech-related. The best way to get in touch is by opening an issue on this GitHub repository or by connecting with me on LinkedIn or just mail me at parthasm1306@gmail.com :)<p>LinkedIn : https://www.linkedin.com/in/parthasarathimistri Github Issues : https://github.com/parthasarathimistri/my-portfolio/issues</p>

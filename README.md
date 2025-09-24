@@ -62,9 +62,3 @@ Twitter / X: @parthasm1306
 
 Instagram: @parthasarathimistri
 
-🙏 Credits
-This portfolio was built upon a fantastic template. Huge thanks to the original designers and distributors:
-
-Design by: StyleShout
-
-Distribution by: ThemeWagon
